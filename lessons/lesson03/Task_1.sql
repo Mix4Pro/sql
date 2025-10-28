@@ -1,4 +1,5 @@
 
+
 -- Найди сумму продаж по каждому региону.
 SELECT region , SUM(amount)
 FROM sales
